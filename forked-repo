@@ -1,5 +1,3 @@
-curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
-
 $ curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
 {
   "id": 1388990483,
@@ -69,8 +67,8 @@ $ curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
   "releases_url": "https://api.github.com/repos/SANGIMITHRA07/github-final-project/releases{/id}",
   "deployments_url": "https://api.github.com/repos/SANGIMITHRA07/github-final-project/deployments",
   "created_at": "2026-09-26T09:49:12Z",
-  "updated_at": "2026-09-26T09:49:12Z",
-  "pushed_at": "2025-09-04T10:02:47Z",
+  "updated_at": "2026-09-26T10:47:38Z",
+  "pushed_at": "2026-09-26T10:47:32Z",
   "git_url": "git://github.com/SANGIMITHRA07/github-final-project.git",
   "ssh_url": "git@github.com:SANGIMITHRA07/github-final-project.git",
   "clone_url": "https://github.com/SANGIMITHRA07/github-final-project.git",
@@ -79,7 +77,7 @@ $ curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
   "size": 18,
   "stargazers_count": 0,
   "watchers_count": 0,
-  "language": null,
+  "language": "Python",
   "has_issues": false,
   "has_projects": true,
   "has_downloads": false,
@@ -92,11 +90,11 @@ $ curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
   "disabled": false,
   "open_issues_count": 0,
   "license": {
-    "key": "apache-2.0",
-    "name": "Apache License 2.0",
-    "spdx_id": "Apache-2.0",
-    "url": "https://api.github.com/licenses/apache-2.0",
-    "node_id": "MDc6TGljZW5zZTI="
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
   },
   "allow_forking": true,
   "is_template": true,
@@ -197,7 +195,7 @@ $ curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 10267,
+    "forks_count": 10269,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -218,7 +216,7 @@ $ curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
 
     ],
     "visibility": "public",
-    "forks": 10267,
+    "forks": 10269,
     "open_issues": 47,
     "watchers": 19,
     "default_branch": "main"
@@ -308,7 +306,7 @@ $ curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 10267,
+    "forks_count": 10269,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -329,11 +327,11 @@ $ curl -s https://api.github.com/repos/SANGIMITHRA07/github-final-project
 
     ],
     "visibility": "public",
-    "forks": 10267,
+    "forks": 10269,
     "open_issues": 47,
     "watchers": 19,
     "default_branch": "main"
   },
-  "network_count": 10267,
+  "network_count": 10269,
   "subscribers_count": 0
 }
