@@ -1,0 +1,13 @@
+# Task 8 - Pull Request Verification Evidence
+
+Run the curl command required by the course to verify the pull request.
+The output must verify that the pull request is valid and identify the
+forked repository from which the pull request was created.
+
+Paste the EXACT curl command and COMPLETE terminal output below.
+
+COMMAND:
+PASTE YOUR REAL CURL COMMAND HERE
+
+OUTPUT:
+PASTE YOUR REAL TERMINAL OUTPUT HERE

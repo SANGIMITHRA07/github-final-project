@@ -1,0 +1,11 @@
+# Task 7 - Merge Branches Evidence
+
+The terminal output must include:
+- git checkout main
+- git merge bug-fix-typo
+- a result clearly showing that 1 file was changed
+
+Paste the EXACT commands and COMPLETE terminal output below.
+
+COMMAND/OUTPUT:
+PASTE YOUR REAL TERMINAL OUTPUT HERE
