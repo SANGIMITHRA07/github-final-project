@@ -1,0 +1,18 @@
+
+ADMIN@DESKTOP-JTS577B MINGW64 ~/Desktop/github-final-project (main)
+$ git push -u origin bug-fix-typo
+info: please complete authentication in your browser...
+Enumerating objects: 17, done.
+Counting objects: 100% (17/17), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (15/15), done.
+Writing objects: 100% (17/17), 8.52 KiB | 8.52 MiB/s, done.
+Total 17 (delta 2), reused 12 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), done.
+remote:
+remote: Create a pull request for 'bug-fix-typo' on GitHub by visiting:
+remote:      https://github.com/SANGIMITHRA07/github-final-project/pull/new/bug-fix-typo
+remote:
+To https://github.com/SANGIMITHRA07/github-final-project.git
+ * [new branch]      bug-fix-typo -> bug-fix-typo
+branch 'bug-fix-typo' set up to track 'origin/bug-fix-typo'.
