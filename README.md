@@ -23,3 +23,4 @@ The calculated simple interest is displayed in the terminal.
 - `CODE_OF_CONDUCT` - Code of conduct
 - `CONTRIBUTING.md` - Contribution guidelines
 - `simple-interest.sh` - Bash simple-interest calculator
+Bug fix typo correction
