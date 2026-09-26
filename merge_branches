@@ -1,33 +1,5 @@
-ADMIN@DESKTOP-JTS577B MINGW64 ~
-$ cd ~/Desktop/github-final-project
-
-ADMIN@DESKTOP-JTS577B MINGW64 ~/Desktop/github-final-project (bug-fix-typo)
-$ git config --global user.name "SANGIMITHRA07"
-
-ADMIN@DESKTOP-JTS577B MINGW64 ~/Desktop/github-final-project (bug-fix-typo)
-$ git config --global user.email "sangimithra7@gmail.com"
-
-ADMIN@DESKTOP-JTS577B MINGW64 ~/Desktop/github-final-project (bug-fix-typo)
-$ git commit -m "Fix typo"
-[bug-fix-typo d5256ca] Fix typo
- 1 file changed, 1 insertion(+)
-
-ADMIN@DESKTOP-JTS577B MINGW64 ~/Desktop/github-final-project (bug-fix-typo)
-$ git branch
-* bug-fix-typo
-  main
-
-ADMIN@DESKTOP-JTS577B MINGW64 ~/Desktop/github-final-project (bug-fix-typo)
-$ git checkout main
-Switched to branch 'main'
-Your branch is up to date with 'origin/main'.
-
-ADMIN@DESKTOP-JTS577B MINGW64 ~/Desktop/github-final-project (main)
 $ git merge bug-fix-typo
 Updating 171589d..d5256ca
 Fast-forward
  README.md | 1 +
  1 file changed, 1 insertion(+)
-
-ADMIN@DESKTOP-JTS577B MINGW64 ~/Desktop/github-final-project (main)
-$
